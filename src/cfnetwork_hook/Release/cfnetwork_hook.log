@@ -1,0 +1,17 @@
+﻿Build started 2017/6/13 15:46:48.
+     1>Project "F:\cfnetwork_hsts\src\cfnetwork_hook\cfnetwork_hook.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\cfnetwork_hsts\Release\cfnetwork_hook.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:F:\cfnetwork_hsts\\src\third_party\WebKitSupportLibrary\win\lib32\ kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"F:\cfnetwork_hsts\Release\cfnetwork_hook.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\cfnetwork_hsts\Release\cfnetwork_hook.lib" /MACHINE:X86 /SAFESEH /DLL Release\creatwth.obj
+         Release\detours.obj
+         Release\disasm.obj
+         Release\image.obj
+         Release\modules.obj
+         Release\cfnetwork_hook.obj
+         Generating code
+         Finished generating code
+         cfnetwork_hook.vcxproj -> F:\cfnetwork_hsts\Release\cfnetwork_hook.dll
+     1>Done Building Project "F:\cfnetwork_hsts\src\cfnetwork_hook\cfnetwork_hook.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.44
